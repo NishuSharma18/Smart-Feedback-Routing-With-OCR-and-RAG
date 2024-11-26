@@ -8,13 +8,13 @@ import pytesseract
 app = Flask(__name__)
 
 def get_grayscale(image):
-    return cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+   return cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
 def remove_noise(image):
-    return cv2.medianBlur(image,5)
+   return cv2.medianBlur(image,5)
 
 def thresholding(image):
-    return cv2.threshold(image, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)[1]
+   return cv2.threshold(image, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)[1]
 
 def noise_removal(image):
    kernel = np.ones((1,1),np.uint8)
