@@ -1,0 +1,26 @@
+                                precision    recall  f1-score   support
+
+             Web Frontend Team       0.86      0.69      0.77        36
+             App Frontend Team       0.82      1.00      0.90        41
+                  Backend Team       0.88      0.70      0.78        40
+                UI design Team       0.88      0.83      0.85        35
+                Logistics Team       1.00      0.89      0.94        36
+                Marketing Team       1.00      0.80      0.89        20
+                    Sales Team       0.64      1.00      0.78        36
+                  Finance Team       1.00      0.85      0.92        52
+         Customer Support Team       0.90      0.82      0.86        44
+          Human Resources Team       1.00      1.00      1.00        20
+         Content Strategy Team       1.00      1.00      1.00        36
+                   Growth Team       0.89      1.00      0.94        32
+                    AI/ML Team       1.00      1.00      1.00        24
+                 Security Team       0.88      0.88      0.88        32
+             Data Science Team       0.82      1.00      0.90        36
+                  Product Team       1.00      0.71      0.83        28
+         Site Reliability Team       0.80      1.00      0.89        16
+           Cloud Platform Team       1.00      1.00      1.00        12
+                 Research Team       1.00      1.00      1.00        16
+Internal Tool Development Team       0.80      1.00      0.89        16
+
+                     micro avg       0.89      0.89      0.89       608
+                     macro avg       0.91      0.91      0.90       608
+                  weighted avg       0.90      0.89      0.89       608

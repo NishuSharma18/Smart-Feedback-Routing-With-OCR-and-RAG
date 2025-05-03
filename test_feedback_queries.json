@@ -1,0 +1,2454 @@
+[
+  {
+    "label": "Web Frontend Team",
+    "feedback": "The website layout keeps breaking on different screen sizes and loads slowly."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "The mobile app crashes often and the buttons are unresponsive on my phone."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "I could not log in today, and the data I entered yesterday is missing."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "The color scheme makes it hard to read, and the navigation is confusing."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "My package was delayed and I can not track it properly."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "The payment failed at checkout, and I was charged twice."
+  },
+  {
+    "label": "Marketing Team",
+    "feedback": "The app keeps showing me irrelevant promotional popups."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "The pricing page is confusing and I did not get the onboarding help promised."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "My invoice is incorrect and the tax info seems off."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "The support chatbot gave me irrelevant responses, and no one followed up."
+  },
+  {
+    "label": "Human Resources Team",
+    "feedback": "There is been a delay in processing my HR request for remote work."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "I could not find clear instructions in the help center for my issue."
+  },
+  {
+    "label": "QA Team",
+    "feedback": "There is a recurring bug that still has not been fixed across updates."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "The onboarding flow is clunky and I did not understand how to use the app at first."
+  },
+  {
+    "label": "AI/ML Team",
+    "feedback": "The product recommendations do not match my preferences at all."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "I got a suspicious login alert but I was not told how to respond to it."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "The dashboard shows inconsistent data compared to last week."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "The new feature does not solve my problem and seems poorly designed."
+  },
+  {
+    "label": "Site Reliability Team",
+    "feedback": "The site keeps going down during peak hours and loads very slowly."
+  },
+  {
+    "label": "Cloud Platform Team",
+    "feedback": "I am facing service outages that seem to depend on my location."
+  },
+  {
+    "label": "Research Team",
+    "feedback": "The new experimental feature does not work and breaks the page."
+  },
+  {
+    "label": "Internal Tool Development Team",
+    "feedback": "The internal rosey tool I use for deployment keeps crashing."
+  },
+
+  {
+    "label": "Web Frontend Team",
+    "feedback": "Elements on the homepage overlap when I zoom in or out."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "Push notifications do not open the right screens in the app."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "API responses are very slow and sometimes return 500 errors."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Font sizes are inconsistent across pages and hurt readability."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "My order was marked as delivered but never arrived."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "UPI payments are not being recognized even after successful transactions."
+  },
+  {
+    "label": "Marketing Team",
+    "feedback": "Email campaigns are too frequent and not relevant to my interests."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "I signed up through the sales link, but my promo code was invalid."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "My refund has not been processed even after 10 business days."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "Wait time for live support is too long and I keep getting disconnected."
+  },
+  {
+    "label": "Human Resources Team",
+    "feedback": "My leave balance is incorrect in the portal."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "The FAQ section lacks detail and is not updated with the latest changes."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "The app crashes when I try to upload an image in the feedback form."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "Referral rewards never got credited even though my friend signed up."
+  },
+  {
+    "label": "AI/ML Team",
+    "feedback": "Voice assistant misinterprets commands frequently."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "I was not notified of a new login from a different location."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Analytics report shows inflated metrics compared to actual usage."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "The latest update removed features I use daily without warning."
+  },
+  {
+    "label": "Site Reliability Team",
+    "feedback": "The service becomes unusable during system updates."
+  },
+  {
+    "label": "Cloud Platform Team",
+    "feedback": "Latency is high during file uploads in the EU region."
+  },
+  {
+    "label": "Internal Tool Development Team",
+    "feedback": "The internal bug tracking system logs me out frequently."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "The dropdown menu does not work in Safari browser."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "Dark mode is inconsistent and some screens flash white."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "The session keeps expiring too quickly after login."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Important buttons are not visually distinct from normal text."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "My delivery address was updated but the package still went to the old one."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "EMI option is shown but not functional at checkout."
+  },
+  {
+    "label": "Marketing Team",
+    "feedback": "I am getting emails for products I never searched for."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "There was no salesperson assigned even after booking a demo."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "The billing amount includes unexplained service charges."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "The live chat agent copy-pasted unrelated answers."
+  },
+  {
+    "label": "Human Resources Team",
+    "feedback": "My updated personal details are not reflected in the HR system."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "The tutorial articles seem outdated and refer to old UI."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "I reported the same issue with the feature weeks ago but it is still unresolved."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "The onboarding emails stopped midway and skipped key steps."
+  },
+  {
+    "label": "AI/ML Team",
+    "feedback": "The chat assistant misunderstood my intent and gave wrong suggestions."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "2FA sometimes fails to send verification codes."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Some KPIs are showing as zero even though I had activity."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "New filters on the dashboard are too restrictive to be useful."
+  },
+  {
+    "label": "Site Reliability Team",
+    "feedback": "Frequent downtime is affecting my daily operations."
+  },
+  {
+    "label": "Cloud Platform Team",
+    "feedback": "Certain microservices are unreachable from our VPC region."
+  },
+  {
+    "label": "Research Team",
+    "feedback": "Your experimental feature removed essential settings unexpectedly."
+  },
+  {
+    "label": "Internal Tool Development Team",
+    "feedback": "Our internal performance review portal has broken links."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "Images on the homepage do not scale properly on tablets."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "The app freezes when I try to upload a profile picture."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "My saved preferences reset every time I refresh the page."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Text overlaps with icons on smaller screens."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "The tracking info shows conflicting delivery dates."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "Unable to redeem my coupon code during checkout."
+  },
+  {
+    "label": "Marketing Team",
+    "feedback": "I opted out of notifications, but still receive them daily."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "Duplicate entries are shown in my billing history."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "I have raised three tickets and none have been acknowledged."
+  },
+  {
+    "label": "Human Resources Team",
+    "feedback": "My referral bonus has not been processed after 60 days."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "The FAQ section does not address common refund issues."
+  },
+  {
+    "label": "Internal Tool Development Team",
+    "feedback": "Each update introduces new issues instead of fixing the old ones."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "The app does not guide new onboarded users well during initial use."
+  },
+  {
+    "label": "AI/ML Team",
+    "feedback": "Voice assistant often misunderstands basic commands."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "No option to review or revoke past logged-in sessions."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Graphs on the analytics page are showing wrong scales."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "The recent product update removed a key feature I relied on."
+  },
+  {
+    "label": "Site Reliability Team",
+    "feedback": "High latency during evening hours makes the site unusable."
+  },
+  {
+    "label": "Research Team",
+    "feedback": "Experimental beta feature crashes when toggled repeatedly."
+  },
+  {
+    "label": "Human Resources Team",
+    "feedback": "Employee timesheet tool does not reflect recent entries."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "Interactive elements lag when switching tabs quickly."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "The footer covers content on smaller screens on the website."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "Dropdown menus are not scrollable on web browsers."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "Form validation messages are not visible."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "Sticky header overlaps with page content."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "App becomes unresponsive after receiving a call."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "Some icons are misaligned in landscape mode."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "Search function freezes when typing quickly."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "Dark mode is not applied consistently across screens."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "App crashes when switching between tabs rapidly."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "I keep getting logged out every few minutes."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "Saved data doesn't persist after a page refresh."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "API timeout errors during payment process."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "User session expires too early after login."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "Data inconsistency between endpoints."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Text boxes blend with the background, making them hard to spot."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Too many font styles make the UI feel cluttered."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Buttons look disabled even when clickable."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Design does not align with company branding."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Modal windows block navigation unintentionally."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "No option to change delivery slot after placing the order."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "Live tracking shows no movement for days."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "Courier contact information is missing."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "Order status stuck at 'Preparing Shipment'."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "In-app delivery updates lag behind actual status."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "My card was charged but the transaction doesn't show in history."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "GST information is not provided in the invoice."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "Currency conversion rates are not transparent."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "Can't download invoice for past transactions."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "Discounts applied are not reflected in the final bill."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "Support ticket marked as resolved without actually fixing the issue."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "No way to speak to a human representative quickly."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "Support chat ends abruptly without resolving the query."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "Live agents provide inconsistent information."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "Follow-up responses take too long."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "Biometric login fails after app update."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "Unable to reset password due to CAPTCHA errors."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "Security questions are repetitive and easy to guess."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "Can't disable saved devices from account settings."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "Privacy settings reset to default on logout."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "Salesperson missed the scheduled call without notice."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "The pricing presented was different from the website."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "Demo promised key features that were missing in the actual product."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "I received no follow-up after expressing purchase interest."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "Promotional discount was not honored by the rep."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "Beta feedback form doesn't submit properly."
+  },
+  {
+    "label": "Research Team",
+    "feedback": "Experimental features interfere with core functionality."
+  },
+  {
+    "label": "AI/ML Team",
+    "feedback": "AI-generated suggestions are repetitive and not context-aware."
+  },
+  {
+    "label": "AI/ML Team",
+    "feedback": "The recommendation engine fails to learn from feedback."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Search results seem unrelated to query intent."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "Chat assistant loops the same reply multiple times."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "The referral system doesn't track referrals properly."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "Onboarding banners keep reappearing even after completion."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "Tutorial skips critical steps for first-time users."
+  },
+  {
+    "label": "Marketing Team",
+    "feedback": "Promo emails push irrelevant products to new users."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "Intro offer expires before new users complete sign-up."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "User guides lack images or step-by-step examples."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "Content in blogs is outdated or contains broken links."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "Help section has poor search relevance."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "No translations available for important articles."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "Tutorial videos don't match the current UI."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Analytics dashboards take too long to load."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Exported CSV data doesn't match visual reports."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Metrics definitions are unclear or inconsistent."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "No trend insights provided for week-over-week comparison."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "Feature roadmap seems misaligned with customer needs."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "Product updates are rolled out without prior notice."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "No option to provide feedback inside the product."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "The website layout keeps breaking on different screen sizes and loads slowly."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "The mobile app crashes often and the buttons are unresponsive on my phone."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "I could not log in today, and the data I entered yesterday is missing."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "The color scheme makes it hard to read, and the navigation is confusing."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "My package was delayed and I can not track it properly."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "The payment failed at checkout, and I was charged twice."
+  },
+  {
+    "label": "Marketing Team",
+    "feedback": "The app keeps showing me irrelevant promotional popups."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "The pricing page is confusing and I did not get the onboarding help promised."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "My invoice is incorrect and the tax info seems off."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "The support chatbot gave me irrelevant responses, and no one followed up."
+  },
+  {
+    "label": "Human Resources Team",
+    "feedback": "There is been a delay in processing my HR request for remote work."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "I could not find clear instructions in the help center for my issue."
+  },
+  {
+    "label": "QA Team",
+    "feedback": "There is a recurring bug that still has not been fixed across updates."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "The onboarding flow is clunky and I did not understand how to use the app at first."
+  },
+  {
+    "label": "AI/ML Team",
+    "feedback": "The product recommendations do not match my preferences at all."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "I got a suspicious login alert but I was not told how to respond to it."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "The dashboard shows inconsistent data compared to last week."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "The new feature does not solve my problem and seems poorly designed."
+  },
+  {
+    "label": "Site Reliability Team",
+    "feedback": "The site keeps going down during peak hours and loads very slowly."
+  },
+  {
+    "label": "Cloud Platform Team",
+    "feedback": "I am facing service outages that seem to depend on my location."
+  },
+  {
+    "label": "Research Team",
+    "feedback": "The new experimental feature does not work and breaks the page."
+  },
+  {
+    "label": "Internal Tool Development Team",
+    "feedback": "The internal rosey tool I use for deployment keeps crashing."
+  },
+
+  {
+    "label": "Web Frontend Team",
+    "feedback": "Elements on the homepage overlap when I zoom in or out."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "Push notifications do not open the right screens in the app."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "API responses are very slow and sometimes return 500 errors."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Font sizes are inconsistent across pages and hurt readability."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "My order was marked as delivered but never arrived."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "UPI payments are not being recognized even after successful transactions."
+  },
+  {
+    "label": "Marketing Team",
+    "feedback": "Email campaigns are too frequent and not relevant to my interests."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "I signed up through the sales link, but my promo code was invalid."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "My refund has not been processed even after 10 business days."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "Wait time for live support is too long and I keep getting disconnected."
+  },
+  {
+    "label": "Human Resources Team",
+    "feedback": "My leave balance is incorrect in the portal."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "The FAQ section lacks detail and is not updated with the latest changes."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "The app crashes when I try to upload an image in the feedback form."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "Referral rewards never got credited even though my friend signed up."
+  },
+  {
+    "label": "AI/ML Team",
+    "feedback": "Voice assistant misinterprets commands frequently."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "I was not notified of a new login from a different location."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Analytics report shows inflated metrics compared to actual usage."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "The latest update removed features I use daily without warning."
+  },
+  {
+    "label": "Site Reliability Team",
+    "feedback": "The service becomes unusable during system updates."
+  },
+  {
+    "label": "Cloud Platform Team",
+    "feedback": "Latency is high during file uploads in the EU region."
+  },
+  {
+    "label": "Internal Tool Development Team",
+    "feedback": "The internal bug tracking system logs me out frequently."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "The dropdown menu does not work in Safari browser."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "Dark mode is inconsistent and some screens flash white."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "The session keeps expiring too quickly after login."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Important buttons are not visually distinct from normal text."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "My delivery address was updated but the package still went to the old one."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "EMI option is shown but not functional at checkout."
+  },
+  {
+    "label": "Marketing Team",
+    "feedback": "I am getting emails for products I never searched for."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "There was no salesperson assigned even after booking a demo."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "The billing amount includes unexplained service charges."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "The live chat agent copy-pasted unrelated answers."
+  },
+  {
+    "label": "Human Resources Team",
+    "feedback": "My updated personal details are not reflected in the HR system."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "The tutorial articles seem outdated and refer to old UI."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "I reported the same issue with the feature weeks ago but it is still unresolved."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "The onboarding emails stopped midway and skipped key steps."
+  },
+  {
+    "label": "AI/ML Team",
+    "feedback": "The chat assistant misunderstood my intent and gave wrong suggestions."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "Two Factor Authentication sometimes fails to send verification codes."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Some KPIs are showing as zero even though I had activity."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "New filters on the dashboard are too restrictive to be useful."
+  },
+  {
+    "label": "Site Reliability Team",
+    "feedback": "Frequent downtime is affecting my daily operations."
+  },
+  {
+    "label": "Cloud Platform Team",
+    "feedback": "Certain microservices are unreachable from our VPC region."
+  },
+  {
+    "label": "Research Team",
+    "feedback": "Your experimental feature removed essential settings unexpectedly."
+  },
+  {
+    "label": "Internal Tool Development Team",
+    "feedback": "Our internal performance review portal has broken links."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "Images on the homepage do not scale properly on tablets."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "The app freezes when I try to upload a profile picture."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "My saved preferences reset every time I refresh the page."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Text overlaps with icons on smaller screens."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "The tracking info shows conflicting delivery dates."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "Unable to redeem my coupon code during checkout."
+  },
+  {
+    "label": "Marketing Team",
+    "feedback": "I opted out of notifications, but still receive them daily."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "Duplicate entries are shown in my billing history."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "I have raised three tickets and none have been acknowledged."
+  },
+  {
+    "label": "Human Resources Team",
+    "feedback": "My referral bonus has not been processed after 60 days."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "The FAQ section does not address common refund issues."
+  },
+  {
+    "label": "Internal Tool Development Team",
+    "feedback": "Each update introduces new issues instead of fixing the old ones."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "The app does not guide new onboarded users well during initial use."
+  },
+  {
+    "label": "AI/ML Team",
+    "feedback": "Voice assistant often misunderstands basic commands."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "No option to review or revoke past logged-in sessions."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Graphs on the analytics page are showing wrong scales."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "The recent product update removed a key feature I relied on."
+  },
+  {
+    "label": "Site Reliability Team",
+    "feedback": "High latency during evening hours makes the site unusable."
+  },
+  {
+    "label": "Research Team",
+    "feedback": "Experimental beta feature crashes when toggled repeatedly."
+  },
+  {
+    "label": "Human Resources Team",
+    "feedback": "Employee timesheet tool does not reflect recent entries."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "Interactive elements lag when switching tabs quickly."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "The footer covers content on smaller screens on the website."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "Dropdown menus are not scrollable on mobile browsers."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "Form validation messages are not visible."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "Sticky header overlaps with page content."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "App becomes unresponsive after receiving a call."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "Some icons are misaligned in landscape mode."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "Search function freezes when typing quickly."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "Dark mode is not applied consistently across screens."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "App crashes when switching between tabs rapidly."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "I keep getting logged out every few minutes."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "Saved data doesn't persist after a page refresh."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "API timeout errors during payment process."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "User session expires too early after login."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "Data inconsistency between endpoints."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Text boxes blend with the background, making them hard to spot."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Too many font styles make the UI feel cluttered."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Buttons look disabled even when clickable."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Design does not align with company branding."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Modal windows block navigation unintentionally."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "No option to change delivery slot after placing the order."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "Live tracking shows no movement for days."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "Courier contact information is missing."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "Order status stuck at 'Preparing Shipment'."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "In-app delivery updates lag behind actual status."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "My card was charged but the transaction doesn't show in history."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "GST information is not provided in the invoice."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "Currency conversion rates are not transparent."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "Can't download invoice for past transactions."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "Discounts applied are not reflected in the final bill."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "Support ticket marked as resolved without actually fixing the issue."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "No way to speak to a human representative quickly."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "Support chat ends abruptly without resolving the query."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "Live agents provide inconsistent information."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "Follow-up responses take too long."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "Biometric login fails after app update."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "Unable to reset password due to CAPTCHA errors."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "Security questions are repetitive and easy to guess."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "Can't disable saved devices from account settings."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "Privacy settings reset to default on logout."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "Salesperson missed the scheduled call without notice."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "The pricing presented was different from the website."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "Demo promised key features that were missing in the actual product."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "I received no follow-up after expressing purchase interest."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "Promotional discount was not honored by the rep."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "Beta feedback form doesn't submit properly."
+  },
+  {
+    "label": "Research Team",
+    "feedback": "Experimental features interfere with core functionality."
+  },
+  {
+    "label": "AI/ML Team",
+    "feedback": "AI-generated suggestions are repetitive and not context-aware."
+  },
+  {
+    "label": "AI/ML Team",
+    "feedback": "The recommendation engine fails to learn from feedback."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Search results seem unrelated to query intent."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "Chat assistant loops the same reply multiple times."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "The referral system doesn't track referrals properly."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "Onboarding banners keep reappearing even after completion."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "Tutorial skips critical steps for first-time users."
+  },
+  {
+    "label": "Marketing Team",
+    "feedback": "Promo emails push irrelevant products to new users."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "Intro offer expires before new users complete sign-up."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "User guides lack images or step-by-step examples."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "Content in blogs is outdated or contains broken links."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "Help section has poor search relevance."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "No translations available for important articles."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "Tutorial videos don't match the current UI."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Analytics dashboards take too long to load."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Exported CSV data doesn't match visual reports."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Metrics definitions are unclear or inconsistent."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "No trend insights provided for week-over-week comparison."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "Feature roadmap seems misaligned with customer needs."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "Product updates are rolled out without prior notice."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "No option to provide feedback inside the product."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "The website layout keeps breaking on different screen sizes and loads slowly."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "The mobile app crashes often and the buttons are unresponsive on my phone."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "I could not log in today, and the data I entered yesterday is missing."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "The color scheme makes it hard to read, and the navigation is confusing."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "My package was delayed and I can not track it properly."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "The payment failed at checkout, and I was charged twice."
+  },
+  {
+    "label": "Marketing Team",
+    "feedback": "The app keeps showing me irrelevant promotional popups."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "The pricing page is confusing and I did not get the onboarding help promised."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "My invoice is incorrect and the tax info seems off."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "The support chatbot gave me irrelevant responses, and no one followed up."
+  },
+  {
+    "label": "Human Resources Team",
+    "feedback": "There is been a delay in processing my HR request for remote work."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "I could not find clear instructions in the help center for my issue."
+  },
+  {
+    "label": "QA Team",
+    "feedback": "There is a recurring bug that still has not been fixed across updates."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "The onboarding flow is clunky and I did not understand how to use the app at first."
+  },
+  {
+    "label": "AI/ML Team",
+    "feedback": "The product recommendations do not match my preferences at all."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "I got a suspicious login alert but I was not told how to respond to it."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "The dashboard shows inconsistent data compared to last week."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "The new feature does not solve my problem and seems poorly designed."
+  },
+  {
+    "label": "Site Reliability Team",
+    "feedback": "The site keeps going down during peak hours and loads very slowly."
+  },
+  {
+    "label": "Cloud Platform Team",
+    "feedback": "I am facing service outages that seem to depend on my location."
+  },
+  {
+    "label": "Research Team",
+    "feedback": "The new experimental feature does not work and breaks the page."
+  },
+  {
+    "label": "Internal Tool Development Team",
+    "feedback": "The internal rosey tool I use for deployment keeps crashing."
+  },
+
+  {
+    "label": "Web Frontend Team",
+    "feedback": "Elements on the homepage overlap when I zoom in or out."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "Push notifications do not open the right screens in the app."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "API responses are very slow and sometimes return 500 errors."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Font sizes are inconsistent across pages and hurt readability."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "My order was marked as delivered but never arrived."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "UPI payments are not being recognized even after successful transactions."
+  },
+  {
+    "label": "Marketing Team",
+    "feedback": "Email campaigns are too frequent and not relevant to my interests."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "I signed up through the sales link, but my promo code was invalid."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "My refund has not been processed even after 10 business days."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "Wait time for live support is too long and I keep getting disconnected."
+  },
+  {
+    "label": "Human Resources Team",
+    "feedback": "My leave balance is incorrect in the portal."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "The FAQ section lacks detail and is not updated with the latest changes."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "The app crashes when I try to upload an image in the feedback form."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "Referral rewards never got credited even though my friend signed up."
+  },
+  {
+    "label": "AI/ML Team",
+    "feedback": "Voice assistant misinterprets commands frequently."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "I was not notified of a new login from a different location."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Analytics report shows inflated metrics compared to actual usage."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "The latest update removed features I use daily without warning."
+  },
+  {
+    "label": "Site Reliability Team",
+    "feedback": "The service becomes unusable during system updates."
+  },
+  {
+    "label": "Cloud Platform Team",
+    "feedback": "Latency is high during file uploads in the EU region."
+  },
+  {
+    "label": "Internal Tool Development Team",
+    "feedback": "The internal bug tracking system logs me out frequently."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "The dropdown menu does not work in Safari browser."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "Dark mode is inconsistent and some screens flash white."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "The session keeps expiring too quickly after login."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Important buttons are not visually distinct from normal text."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "My delivery address was updated but the package still went to the old one."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "EMI option is shown but not functional at checkout."
+  },
+  {
+    "label": "Marketing Team",
+    "feedback": "I am getting emails for products I never searched for."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "There was no salesperson assigned even after booking a demo."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "The billing amount includes unexplained service charges."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "The live chat agent copy-pasted unrelated answers."
+  },
+  {
+    "label": "Human Resources Team",
+    "feedback": "My updated personal details are not reflected in the HR system."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "The tutorial articles seem outdated and refer to old UI."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "I reported the same issue with the feature weeks ago but it is still unresolved."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "The onboarding emails stopped midway and skipped key steps."
+  },
+  {
+    "label": "AI/ML Team",
+    "feedback": "The chat assistant misunderstood my intent and gave wrong suggestions."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "2FA sometimes fails to send verification codes."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Some KPIs are showing as zero even though I had activity."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "New filters on the dashboard are too restrictive to be useful."
+  },
+  {
+    "label": "Site Reliability Team",
+    "feedback": "Frequent downtime is affecting my daily operations."
+  },
+  {
+    "label": "Cloud Platform Team",
+    "feedback": "Certain microservices are unreachable from our VPC region."
+  },
+  {
+    "label": "Research Team",
+    "feedback": "Your experimental feature removed essential settings unexpectedly."
+  },
+  {
+    "label": "Internal Tool Development Team",
+    "feedback": "Our internal performance review portal has broken links."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "Images on the homepage do not scale properly on tablets."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "The app freezes when I try to upload a profile picture."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "My saved preferences reset every time I refresh the page."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Text overlaps with icons on smaller screens."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "The tracking info shows conflicting delivery dates."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "Unable to redeem my coupon code during checkout."
+  },
+  {
+    "label": "Marketing Team",
+    "feedback": "I opted out of notifications, but still receive them daily."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "Duplicate entries are shown in my billing history."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "I have raised three tickets and none have been acknowledged."
+  },
+  {
+    "label": "Human Resources Team",
+    "feedback": "My referral bonus has not been processed after 60 days."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "The FAQ section does not address common refund issues."
+  },
+  {
+    "label": "Internal Tool Development Team",
+    "feedback": "Each update introduces new issues instead of fixing the old ones."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "The app does not guide new onboarded users well during initial use."
+  },
+  {
+    "label": "AI/ML Team",
+    "feedback": "Voice assistant often misunderstands basic commands."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "No option to review or revoke past logged-in sessions."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Graphs on the analytics page are showing wrong scales."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "The recent product update removed a key feature I relied on."
+  },
+  {
+    "label": "Site Reliability Team",
+    "feedback": "High latency during evening hours makes the site unusable."
+  },
+  {
+    "label": "Research Team",
+    "feedback": "Experimental beta feature crashes when toggled repeatedly."
+  },
+  {
+    "label": "Human Resources Team",
+    "feedback": "Employee timesheet tool does not reflect recent entries."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "Interactive elements lag when switching tabs quickly."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "The footer covers content on smaller screens on the website."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "Dropdown menus are not scrollable on mobile browsers."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "Form validation messages are not visible."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "Sticky header overlaps with page content."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "App becomes unresponsive after receiving a call."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "Some icons are misaligned in landscape mode."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "Search function freezes when typing quickly."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "Dark mode is not applied consistently across screens."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "App crashes when switching between tabs rapidly."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "I keep getting logged out every few minutes."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "Saved data doesn't persist after a page refresh."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "API timeout errors during payment process."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "User session expires too early after login."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "Data inconsistency between endpoints."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Text boxes blend with the background, making them hard to spot."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Too many font styles make the UI feel cluttered."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Buttons look disabled even when clickable."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Design does not align with company branding."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Modal windows block navigation unintentionally."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "No option to change delivery slot after placing the order."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "Live tracking shows no movement for days."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "Courier contact information is missing."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "Order status stuck at 'Preparing Shipment'."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "In-app delivery updates lag behind actual status."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "My card was charged but the transaction doesn't show in history."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "GST information is not provided in the invoice."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "Currency conversion rates are not transparent."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "Can't download invoice for past transactions."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "Discounts applied are not reflected in the final bill."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "Support ticket marked as resolved without actually fixing the issue."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "No way to speak to a human representative quickly."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "Support chat ends abruptly without resolving the query."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "Live agents provide inconsistent information."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "Follow-up responses take too long."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "Biometric login fails after app update."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "Unable to reset password due to CAPTCHA errors."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "Security questions are repetitive and easy to guess."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "Can't disable saved devices from account settings."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "Privacy settings reset to default on logout."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "Salesperson missed the scheduled call without notice."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "The pricing presented was different from the website."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "Demo promised key features that were missing in the actual product."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "I received no follow-up after expressing purchase interest."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "Promotional discount was not honored by the rep."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "Beta feedback form doesn't submit properly."
+  },
+  {
+    "label": "Research Team",
+    "feedback": "Experimental features interfere with core functionality."
+  },
+  {
+    "label": "AI/ML Team",
+    "feedback": "AI-generated suggestions are repetitive and not context-aware."
+  },
+  {
+    "label": "AI/ML Team",
+    "feedback": "The recommendation engine fails to learn from feedback."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Search results seem unrelated to query intent."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "Chat assistant loops the same reply multiple times."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "The referral system doesn't track referrals properly."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "Onboarding banners keep reappearing even after completion."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "Tutorial skips critical steps for first-time users."
+  },
+  {
+    "label": "Marketing Team",
+    "feedback": "Promo emails push irrelevant products to new users."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "Intro offer expires before new users complete sign-up."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "User guides lack images or step-by-step examples."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "Content in blogs is outdated or contains broken links."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "Help section has poor search relevance."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "No translations available for important articles."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "Tutorial videos don't match the current UI."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Analytics dashboards take too long to load."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Exported CSV data doesn't match visual reports."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Metrics definitions are unclear or inconsistent."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "No trend insights provided for week-over-week comparison."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "Feature roadmap seems misaligned with customer needs."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "Product updates are rolled out without prior notice."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "No option to provide feedback inside the product."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "The website layout keeps breaking on different screen sizes and loads slowly."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "The mobile app crashes often and the buttons are unresponsive on my phone."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "I could not log in today, and the data I entered yesterday is missing."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "The color scheme makes it hard to read, and the navigation is confusing."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "My package was delayed and I can not track it properly."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "The payment failed at checkout, and I was charged twice."
+  },
+  {
+    "label": "Marketing Team",
+    "feedback": "The app keeps showing me irrelevant promotional popups."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "The pricing page is confusing and I did not get the onboarding help promised."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "My invoice is incorrect and the tax info seems off."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "The support chatbot gave me irrelevant responses, and no one followed up."
+  },
+  {
+    "label": "Human Resources Team",
+    "feedback": "There is been a delay in processing my HR request for remote work."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "I could not find clear instructions in the help center for my issue."
+  },
+  {
+    "label": "QA Team",
+    "feedback": "There is a recurring bug that still has not been fixed across updates."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "The onboarding flow is clunky and I did not understand how to use the app at first."
+  },
+  {
+    "label": "AI/ML Team",
+    "feedback": "The product recommendations do not match my preferences at all."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "I got a suspicious login alert but I was not told how to respond to it."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "The dashboard shows inconsistent data compared to last week."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "The new feature does not solve my problem and seems poorly designed."
+  },
+  {
+    "label": "Site Reliability Team",
+    "feedback": "The site keeps going down during peak hours and loads very slowly."
+  },
+  {
+    "label": "Cloud Platform Team",
+    "feedback": "I am facing service outages that seem to depend on my location."
+  },
+  {
+    "label": "Research Team",
+    "feedback": "The new experimental feature does not work and breaks the page."
+  },
+  {
+    "label": "Internal Tool Development Team",
+    "feedback": "The internal rosey tool I use for deployment keeps crashing."
+  },
+
+  {
+    "label": "Web Frontend Team",
+    "feedback": "Elements on the homepage overlap when I zoom in or out."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "Push notifications do not open the right screens in the app."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "API responses are very slow and sometimes return 500 errors."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Font sizes are inconsistent across pages and hurt readability."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "My order was marked as delivered but never arrived."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "UPI payments are not being recognized even after successful transactions."
+  },
+  {
+    "label": "Marketing Team",
+    "feedback": "Email campaigns are too frequent and not relevant to my interests."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "I signed up through the sales link, but my promo code was invalid."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "My refund has not been processed even after 10 business days."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "Wait time for live support is too long and I keep getting disconnected."
+  },
+  {
+    "label": "Human Resources Team",
+    "feedback": "My leave balance is incorrect in the portal."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "The FAQ section lacks detail and is not updated with the latest changes."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "The app crashes when I try to upload an image in the feedback form."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "Referral rewards never got credited even though my friend signed up."
+  },
+  {
+    "label": "AI/ML Team",
+    "feedback": "Voice assistant misinterprets commands frequently."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "I was not notified of a new login from a different location."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Analytics report shows inflated metrics compared to actual usage."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "The latest update removed features I use daily without warning."
+  },
+  {
+    "label": "Site Reliability Team",
+    "feedback": "The service becomes unusable during system updates."
+  },
+  {
+    "label": "Cloud Platform Team",
+    "feedback": "Latency is high during file uploads in the EU region."
+  },
+  {
+    "label": "Internal Tool Development Team",
+    "feedback": "The internal bug tracking system logs me out frequently."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "The dropdown menu does not work in Safari browser."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "Dark mode is inconsistent and some screens flash white."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "The session keeps expiring too quickly after login."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Important buttons are not visually distinct from normal text."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "My delivery address was updated but the package still went to the old one."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "EMI option is shown but not functional at checkout."
+  },
+  {
+    "label": "Marketing Team",
+    "feedback": "I am getting emails for products I never searched for."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "There was no salesperson assigned even after booking a demo."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "The billing amount includes unexplained service charges."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "The live chat agent copy-pasted unrelated answers."
+  },
+  {
+    "label": "Human Resources Team",
+    "feedback": "My updated personal details are not reflected in the HR system."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "The tutorial articles seem outdated and refer to old UI."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "I reported the same issue with the feature weeks ago but it is still unresolved."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "The onboarding emails stopped midway and skipped key steps."
+  },
+  {
+    "label": "AI/ML Team",
+    "feedback": "The chat assistant misunderstood my intent and gave wrong suggestions."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "2FA sometimes fails to send verification codes."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Some KPIs are showing as zero even though I had activity."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "New filters on the dashboard are too restrictive to be useful."
+  },
+  {
+    "label": "Site Reliability Team",
+    "feedback": "Frequent downtime is affecting my daily operations."
+  },
+  {
+    "label": "Cloud Platform Team",
+    "feedback": "Certain microservices are unreachable from our VPC region."
+  },
+  {
+    "label": "Research Team",
+    "feedback": "Your experimental feature removed essential settings unexpectedly."
+  },
+  {
+    "label": "Internal Tool Development Team",
+    "feedback": "Our internal performance review portal has broken links."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "Images on the homepage do not scale properly on tablets."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "The app freezes when I try to upload a profile picture."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "My saved preferences reset every time I refresh the page."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Text overlaps with icons on smaller screens."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "The tracking info shows conflicting delivery dates."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "Unable to redeem my coupon code during checkout."
+  },
+  {
+    "label": "Marketing Team",
+    "feedback": "I opted out of notifications, but still receive them daily."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "Duplicate entries are shown in my billing history."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "I have raised three tickets and none have been acknowledged."
+  },
+  {
+    "label": "Human Resources Team",
+    "feedback": "My referral bonus has not been processed after 60 days."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "The FAQ section does not address common refund issues."
+  },
+  {
+    "label": "Internal Tool Development Team",
+    "feedback": "Each update introduces new issues instead of fixing the old ones."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "The app does not guide new onboarded users well during initial use."
+  },
+  {
+    "label": "AI/ML Team",
+    "feedback": "Voice assistant often misunderstands basic commands."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "No option to review or revoke past logged-in sessions."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Graphs on the analytics page are showing wrong scales."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "The recent product update removed a key feature I relied on."
+  },
+  {
+    "label": "Site Reliability Team",
+    "feedback": "High latency during evening hours makes the site unusable."
+  },
+  {
+    "label": "Research Team",
+    "feedback": "Experimental beta feature crashes when toggled repeatedly."
+  },
+  {
+    "label": "Human Resources Team",
+    "feedback": "Employee timesheet tool does not reflect recent entries."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "Interactive elements lag when switching tabs quickly."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "The footer covers content on smaller screens on the website."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "Dropdown menus are not scrollable on mobile browsers."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "Form validation messages are not visible."
+  },
+  {
+    "label": "Web Frontend Team",
+    "feedback": "Sticky header overlaps with page content."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "App becomes unresponsive after receiving a call."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "Some icons are misaligned in landscape mode."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "Search function freezes when typing quickly."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "Dark mode is not applied consistently across screens."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "App crashes when switching between tabs rapidly."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "I keep getting logged out every few minutes."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "Saved data doesn't persist after a page refresh."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "API timeout errors during payment process."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "User session expires too early after login."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "Data inconsistency between endpoints."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Text boxes blend with the background, making them hard to spot."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Too many font styles make the UI feel cluttered."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Buttons design look disabled even when clickable in the UI."
+  },
+  {
+    "label": "UI design Team",
+    "feedback": "Design does not align with company branding."
+  },
+  {
+    "label": "App Frontend Team",
+    "feedback": "Modal windows block navigation unintentionally."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "No option to change delivery slot after placing the order."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "Live tracking shows no movement for days."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "Courier contact information is missing."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "Order status stuck at 'Preparing Shipment'."
+  },
+  {
+    "label": "Logistics Team",
+    "feedback": "In-app delivery updates lag behind actual status."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "My card was charged but the transaction doesn't show in history."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "GST information is not provided in the invoice."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "Currency conversion rates are not transparent."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "Can't download invoice for past transactions."
+  },
+  {
+    "label": "Finance Team",
+    "feedback": "Discounts applied are not reflected in the final bill."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "Support ticket marked as resolved without actually fixing the issue."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "No way to speak to a human representative quickly."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "Support chat ends abruptly without resolving the query."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "Live agents provide inconsistent information."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "Follow-up responses take too long."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "Biometric login fails after app update."
+  },
+  {
+    "label": "Backend Team",
+    "feedback": "Unable to reset password due to CAPTCHA errors."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "Security questions are repetitive and easy to guess."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "Can't disable saved devices from account settings."
+  },
+  {
+    "label": "Security Team",
+    "feedback": "Privacy settings reset to default on logout."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "Salesperson missed the scheduled call without notice."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "The pricing presented was different from the website."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "Demo promised key features that were missing in the actual product."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "I received no follow-up after expressing purchase interest."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "Promotional discount was not honored by the rep."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "Beta feedback form doesn't submit properly."
+  },
+  {
+    "label": "Research Team",
+    "feedback": "Experimental features interfere with core functionality."
+  },
+  {
+    "label": "AI/ML Team",
+    "feedback": "AI-generated suggestions are repetitive and not context-aware."
+  },
+  {
+    "label": "AI/ML Team",
+    "feedback": "The recommendation engine fails to learn from feedback."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Search results seem unrelated to query intent."
+  },
+  {
+    "label": "Customer Support Team",
+    "feedback": "Chat assistant loops the same reply multiple times."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "The referral system doesn't track referrals properly."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "Onboarding banners keep reappearing even after completion."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "Tutorial skips critical steps for first-time users."
+  },
+  {
+    "label": "Marketing Team",
+    "feedback": "Promo emails push irrelevant products to new users."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "Intro offer expires before new users complete sign-up."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "User guides lack images or step-by-step examples."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "Content in blogs is outdated or contains broken links."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "Help section has poor search relevance."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "No translations available for important articles."
+  },
+  {
+    "label": "Content Strategy Team",
+    "feedback": "Tutorial videos don't match the current UI."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Analytics dashboards take too long to load."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Exported CSV data doesn't match visual reports."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "Metrics definitions are unclear or inconsistent."
+  },
+  {
+    "label": "Data Science Team",
+    "feedback": "No trend insights provided for week-over-week comparison."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "Feature roadmap seems misaligned with customer needs."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "Product updates are rolled out without prior notice."
+  },
+  {
+    "label": "Product Team",
+    "feedback": "No option to provide feedback inside the product."
+  }
+]
