@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 #model = SentenceTransformer("all-MiniLM-L6-v2")
-model = SentenceTransformer("BAAI/bge-base-en-v1.5")
+#model = SentenceTransformer("BAAI/bge-base-en-v1.5")
 model = SentenceTransformer("BAAI/bge-large-en-v1.5")
 index = faiss.read_index("team_index.faiss")
 

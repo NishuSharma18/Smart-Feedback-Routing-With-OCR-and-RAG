@@ -20,14 +20,11 @@ if __name__ == "__main__":
     team1 = find_responsible_team(feedback1)
     feedback2 = "The app freezes when I try to upload a profile picture."
     team2 = find_responsible_team(feedback2)
-    t3 = find_responsible_team("Some icons are misaligned in landscape mode.")
-    t4 = find_responsible_team("Search function freezes when typing quickly.")
-    t5 = find_responsible_team("Dark mode is not applied consistently across screens.")
-    t6 = find_responsible_team("App crashes when switching between tabs rapidly.")
+    t3 = find_responsible_team("The site keeps going down during peak hours and loads very slowly.")
+    t4 = find_responsible_team("The service becomes unusable during system updates.")
+    t5 = find_responsible_team("Frequent downtime is affecting my daily operations.")
+    t6 = find_responsible_team("High latency during evening hours makes the site unusable.")
 
-    print(team)
-    print(team1)
-    print(team2)
     print(t3)
     print(t4)
     print(t5)

@@ -361,6 +361,10 @@
     "feedback": "Sticky header overlaps with page content."
   },
   {
+    "label": "Site Reliability Team",
+    "feedback": "High latency during evening hours makes the site unusable."
+  },
+  {
     "label": "App Frontend Team",
     "feedback": "App becomes unresponsive after receiving a call."
   },
@@ -375,6 +379,10 @@
   {
     "label": "App Frontend Team",
     "feedback": "Dark mode is not applied consistently across screens."
+  },
+  {
+    "label": "Site Reliability Team",
+    "feedback": "High latency during evening hours makes the site unusable."
   },
   {
     "label": "App Frontend Team",
@@ -533,6 +541,14 @@
     "feedback": "AI-generated suggestions are repetitive and not context-aware."
   },
   {
+    "label": "Sales Team",
+    "feedback": "Salesperson missed the scheduled call without notice."
+  },
+  {
+    "label": "Sales Team",
+    "feedback": "The pricing presented was different from the website."
+  },
+  {
     "label": "AI/ML Team",
     "feedback": "The recommendation engine fails to learn from feedback."
   },
@@ -593,6 +609,14 @@
     "feedback": "Exported CSV data doesn't match visual reports."
   },
   {
+    "label": "Growth Team",
+    "feedback": "The referral system doesn't track referrals properly."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "Onboarding banners keep reappearing even after completion."
+  },
+  {
     "label": "Data Science Team",
     "feedback": "Metrics definitions are unclear or inconsistent."
   },
@@ -611,6 +635,14 @@
   {
     "label": "Product Team",
     "feedback": "No option to provide feedback inside the product."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "The referral system doesn't track referrals properly."
+  },
+  {
+    "label": "Growth Team",
+    "feedback": "Onboarding banners keep reappearing even after completion."
   },
   {
     "label": "Web Frontend Team",
